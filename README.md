@@ -8,7 +8,7 @@ Not so long ago, I started learning frontend and backend development, built a fe
 Apart from these, I also love to play and read about pentesting tools and in my free time I play wargames at [Over The Wire](OverTheWire.org/wargames/) and try to solve some challenges at [Sad Servers](https://www.sadservers.com). <br/>
 
 I also play codewars and currently my badge looks like this --><br/><br/>
-![codewars](https://www.codewars.com/users/tanvirj9@gmail.com/badges/micro)
+![codewars](https://www.codewars.com/users/tanvirj9/badges/micro)
 
 Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!.<br/>
 
