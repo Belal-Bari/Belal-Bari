@@ -32,6 +32,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!.<br/>
 - Learn Ansible, Kafka, n8n and much more.
 - Prepare and take AWS certifications.
 - Learn about DevSecOps.
+- Learn Finnish language 👯
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/belal-bari-227b2930b) ! <br/><br/>
 <!--![⚡B³⚡](https://komarev.com/ghpvc/?username=Belal-Bari&color=blue) -->
