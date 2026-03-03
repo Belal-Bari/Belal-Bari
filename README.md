@@ -26,7 +26,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!.<br/>
 ### Things I am currently doing <br/>
 - Learning Prometheus & Grafana.
 - Working on my Masters Thesis.
-- Looking for a part-time job/internship/traineeship.
+- Looking for a full-time job/internship/traineeship.
 
 ### Things I plan on doing <br/>
 - Learn Ansible, Kafka, n8n and much more.
