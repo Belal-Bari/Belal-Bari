@@ -30,7 +30,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 
 ### Things I plan on doing <br/>
 - Learn Ansible, Kafka, n8n and much more.
-- Prepare and take AWS Kubernetes certifications.
+- Prepare and take AWS & Kubernetes certifications.
 - Learn about DevSecOps.
 - Learn Finnish language 👯
 
