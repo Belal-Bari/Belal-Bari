@@ -21,6 +21,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 - Postgresql, MongoDB
 - DevOps Tools(Docker, Jenkins, Terraform, Kubernetes)
 - Linux and bash
+- n8n
 - GIMP(Image manipulation tool)
 
 ### Things I am currently doing <br/>
@@ -29,10 +30,10 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 - Looking for a full-time job/internship/traineeship.
 
 ### Things I plan on doing <br/>
-- Learn Ansible, Kafka, n8n and much more.
-- Prepare and take AWS & Kubernetes certifications.
+- Learn Ansible, Kafka, GO, Azure and much more.
+- Prepare and take Cloud & Kubernetes certifications.
 - Learn about DevSecOps.
-- Learn Finnish language 👯
+- Learn Finnish and Arabic language 👯
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/belal-bari-227b2930b) ! <br/><br/>
 <!--![⚡B³⚡](https://komarev.com/ghpvc/?username=Belal-Bari&color=blue) -->
