@@ -1,9 +1,11 @@
 # Hello hello ! 👋 <br/>
-I'm Belal, a curious, self-motivated and a helpful person 😄. I'm currently completing my master's degree in Cybersecurity.<br/>
+I'm Belal, a curious, self-motivated and a helpful person 😄. I'm currently wrapping up my thesis for my master's degree in Cybersecurity.<br/>
 
 ### A bit about me <br/>
-Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. But since the spring of '25, my interests have grown into knowing more about DevOps toolings and Cloud technologies. Feel free to checkout my current ongoing project:<br/>
+Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. But since the spring of '25, my interests have grown into knowing more about DevOps and Cloud technologies. Feel free to checkout some of my ongoing projects that I use as testing ground for understanding various processes in DevOps and DevSecOps:<br/>
 - 🔭 [End-to-end devops project (Build-test-deploy)](https://github.com/Belal-Bari/jenkins-terraform-aws-eks-cicd-pipeline-project) <br/>
+- 🔭 [CICD-NodeJS-Project-test-build-deploy (EC2 server))](https://gitlab.com/tanvirj9/CICD-nodejs-project) <br/>
+- 🔭 [DevSecOps-project](https://gitlab.com/tanvirj9/juice-shop) <br/>
 
 Apart from these, I also love to play and read about pentesting tools and in my free time I play wargames at [Over The Wire](OverTheWire.org/wargames/) and try to solve some challenges at [Sad Servers](https://www.sadservers.com). <br/>
 
@@ -19,20 +21,20 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 - Frontend framework -> React
 - Backend framework -> Express, FastAPI
 - Postgresql, MongoDB
-- DevOps Tools(Docker, Jenkins, Terraform, Kubernetes)
+- DevOps Tools (Docker, Jenkins, Terraform, Kubernetes, Argo CD, GitLab CI)
 - Linux and bash
 - n8n
 - GIMP(Image manipulation tool)
 
 ### Things I am currently doing <br/>
 - Learning Prometheus & Grafana.
-- Working on my Masters Thesis.
-- Looking for a full-time job/internship/traineeship.
+- Learning the security aspects of DevOps.
+- Wrapping up my Masters Thesis.
+- Looking for a full-time job.
 
 ### Things I plan on doing <br/>
 - Learn Ansible, Kafka, GO, Azure and much more.
-- Prepare and take Cloud & Kubernetes certifications.
-- Learn about DevSecOps.
+- Prepare and take Cloud & Kubernetes certifications (a future Kubestronaut!).
 - Learn Finnish and Arabic language 👯
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/belal-bari-227b2930b) ! <br/><br/>
