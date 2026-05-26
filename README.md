@@ -3,9 +3,10 @@ I'm Belal, a curious, self-motivated and a helpful person 😄. I'm currently wr
 
 ### A bit about me <br/>
 Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. But since the spring of '25, my interests have grown into knowing more about DevOps and Cloud technologies. Feel free to checkout some of my ongoing projects that I use as testing ground for understanding various processes in DevOps and DevSecOps:<br/>
-- 🔭 [End-to-end devops project (Build-test-deploy)](https://github.com/Belal-Bari/jenkins-terraform-aws-eks-cicd-pipeline-project) <br/>
+
 - 🔭 [CICD-NodeJS-Project-test-build-deploy (EC2 server))](https://gitlab.com/tanvirj9/CICD-nodejs-project) <br/>
 - 🔭 [DevSecOps-project](https://gitlab.com/tanvirj9/juice-shop) <br/>
+- 🔭 [End-to-end devops project](https://github.com/Belal-Bari/jenkins-terraform-aws-eks-cicd-pipeline-project) <br/>
 
 Apart from these, I also love to play and read about pentesting tools and in my free time I play wargames at [Over The Wire](OverTheWire.org/wargames/) and try to solve some challenges at [Sad Servers](https://www.sadservers.com). <br/>
 
