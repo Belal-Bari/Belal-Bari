@@ -4,6 +4,7 @@ I'm Belal, a curious, self-motivated and a helpful person 😄. I'm currently wr
 ### A bit about me <br/>
 Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. But since the spring of '25, my interests have grown into knowing more about DevOps and Cloud technologies. Feel free to checkout some of my ongoing projects that I use as testing ground for understanding various processes in DevOps and DevSecOps:<br/>
 
+- 🔭 [Infra-Automation-GitOps](https://gitlab.com/tanvirj9/infra-automation-gitops) <br/>
 - 🔭 [CICD-devsecops-EC2](https://gitlab.com/tanvirj9/cicd-devsecops-ec2) <br/>
 - 🔭 [CICD-NodeJS-Project-test-build-deploy (EC2 server)](https://gitlab.com/tanvirj9/CICD-nodejs-project) <br/>
 - 🔭 [CICD-Microservices-Monorepo-Project](https://gitlab.com/tanvirj9/cicd-microservice-polyrepo) <br/>
