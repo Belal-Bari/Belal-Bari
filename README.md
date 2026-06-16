@@ -9,8 +9,6 @@ Not so long ago, I started learning frontend and backend development, built a fe
 - 🔭 [CICD-NodeJS-Project-test-build-deploy (EC2 server)](https://gitlab.com/tanvirj9/CICD-nodejs-project) <br/>
 - 🔭 [CICD-Microservices-Monorepo-Project](https://gitlab.com/tanvirj9/cicd-microservice-polyrepo) <br/>
 - 🔭 [CICD-Microservices-Polyrepo-Project](https://gitlab.com/microservice-p0lyrep0)
-- 🔭 [DevSecOps-project](https://gitlab.com/tanvirj9/juice-shop) <br/>
-- 🔭 [End-to-end devops project](https://github.com/Belal-Bari/jenkins-terraform-aws-eks-cicd-pipeline-project) <br/>
 
 Apart from these, I also love to play and read about pentesting tools and in my free time I play wargames at [Over The Wire](OverTheWire.org/wargames/) and try to solve some challenges at [Sad Servers](https://www.sadservers.com). <br/>
 
