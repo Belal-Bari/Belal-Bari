@@ -52,7 +52,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 - Learn Finnish and Arabic language 👯
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/belal-bari-227b2930b) ! <br/><br/>
-<!--![⚡B³⚡](https://komarev.com/ghpvc/?username=Belal-Bari&color=blue) -->
+![⚡B³⚡](https://komarev.com/ghpvc/?username=Belal-Bari&color=blue)
 <!--
 **Belal-Bari/Belal-Bari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
