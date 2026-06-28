@@ -7,7 +7,7 @@ Not so long ago, I started learning frontend and backend development, built a fe
 #### DevSecOps
 | Project Name | Description |
 |-----------------------|---------------------------------------------------------------------------------------|
-|[Infra-Automation-EKS](https://gitlab.com/decsecops_project/infrastructure-automation-eks) | Work in progess...|
+|[End-to-End-project](https://gitlab.com/decsecops_project)| This project implements a secure, GitOps-driven Kubernetes platform on Amazon EKS that automates infrastructure provisioning, application delivery, and security enforcement. The platform follows DevSecOps best practices by separating infrastructure, application configuration, and application source code into independent repositories. Infrastructure is provisioned using Terraform, applications are continuously deployed through Argo CD, and security is enforced throughout the software delivery lifecycle using policy-as-code, workload identity, vulnerability scanning, secrets management, and service mesh. |
 |[CICD-devsecops-EC2](https://gitlab.com/tanvirj9/cicd-devsecops-ec2) |This project implements a GitLab CI/CD DevSecOps pipeline for building, testing, scanning, containerizing, and deploying a Node.js application to AWS EC2. The pipeline integrates multiple security tools and follows security-first deployment practices using AWS Systems Manager (SSM) and OpenID Connect (OIDC) authentication.|
 
 #### GitOps
