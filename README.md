@@ -42,7 +42,7 @@ Lastly, if you are a table-tennis 🏓 enthusiast, hit me up!<br/>
 - GIMP(Image manipulation tool)
 
 ### Things I am currently doing <br/>
-- Learning Prometheus & Grafana.
+- Preparing for CKA certification.
 - Learning the security aspects of DevOps.
 - Looking for a full-time job.
 
