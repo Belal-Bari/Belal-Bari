@@ -7,7 +7,7 @@ Not so long ago, I started learning frontend and backend development, built a fe
 #### DevSecOps
 | Project Name | Description |
 |-----------------------|---------------------------------------------------------------------------------------|
-|[End-to-End-project](https://gitlab.com/decsecops_project/infrastructure-automation-eks) | End-to-end DevSecOps pipeline on AWS EKS — GitLab CI/CD with SAST, SCA, and container scanning, GitOps deployment via Argo CD, and a zero-trust cluster secured with OPA Gatekeeper, External Secrets, and Istio mTLS. |
+|[⚡End-to-End-project⚡](https://gitlab.com/decsecops_project/infrastructure-automation-eks) | End-to-end DevSecOps pipeline on AWS EKS — GitLab CI/CD with SAST, SCA, and container scanning, GitOps deployment via Argo CD, and a zero-trust cluster secured with OPA Gatekeeper, External Secrets, and Istio mTLS. |
 |[CICD-devsecops-EC2](https://gitlab.com/tanvirj9/cicd-devsecops-ec2) |Secure GitLab CI/CD pipeline deploying a Node.js app to AWS EC2, with integrated security scanning, OIDC authentication, and SSM-based deployment.|
 
 #### GitOps
