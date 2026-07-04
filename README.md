@@ -7,19 +7,19 @@ Not so long ago, I started learning frontend and backend development, built a fe
 #### DevSecOps
 | Project Name | Description |
 |-----------------------|---------------------------------------------------------------------------------------|
-|[End-to-End-project](https://gitlab.com/decsecops_project)| This project implements a secure, GitOps-driven Kubernetes platform on Amazon EKS that automates infrastructure provisioning, application delivery, and security enforcement. The platform follows DevSecOps best practices by separating infrastructure, application configuration, and application source code into independent repositories. Infrastructure is provisioned using Terraform, applications are continuously deployed through Argo CD, and security is enforced throughout the software delivery lifecycle using policy-as-code, workload identity, vulnerability scanning, secrets management, and service mesh. |
-|[CICD-devsecops-EC2](https://gitlab.com/tanvirj9/cicd-devsecops-ec2) |This project implements a GitLab CI/CD DevSecOps pipeline for building, testing, scanning, containerizing, and deploying a Node.js application to AWS EC2. The pipeline integrates multiple security tools and follows security-first deployment practices using AWS Systems Manager (SSM) and OpenID Connect (OIDC) authentication.|
+|[End-to-End-project](https://gitlab.com/decsecops_project)| End-to-end DevSecOps pipeline on AWS EKS — GitLab CI/CD with SAST, SCA, and container scanning, GitOps deployment via Argo CD, and a zero-trust cluster secured with OPA Gatekeeper, External Secrets, and Istio mTLS. |
+|[CICD-devsecops-EC2](https://gitlab.com/tanvirj9/cicd-devsecops-ec2) |Secure GitLab CI/CD pipeline deploying a Node.js app to AWS EC2, with integrated security scanning, OIDC authentication, and SSM-based deployment.|
 
 #### GitOps
 | Project Name | Description |
 |------------------------|---------------------------------------------------------------------------------------|
-|[Infra-Automation-GitOps](https://gitlab.com/tanvirj9/infra-automation-gitops) | This project provisions infrastructure in AWS using IaC and GitOps principals. An IAM user is created for the gitlab-runner with the following policies: AmazonEC2FullAccess, AmazonS3FullAccess, AmazonSSMReadOnlyAccess, IAMFullAccess. Automated scripts are used to install docker, AWS CLI and register new runner.|
+|[Infra-Automation-GitOps](https://gitlab.com/tanvirj9/infra-automation-gitops) | This project demonstrates infrastructure automation using GitOps and Infrastructure as Code (IaC) principles. Infrastructure is defined in Terraform and deployed to AWS through an automated GitLab CI/CD pipeline.|
 
 #### CI/CD
 | Project Name | Description |
 |------------------------|---------------------------------------------------------------------------------------|
-|[CICD-NodeJS-Project-test-build-deploy (EC2 server)](https://gitlab.com/tanvirj9/CICD-nodejs-project)|This project implements a full CI/CD pipeline using GitLab CI, Docker and EC2-based deployment servers. It supports automated testing, image building, security scanning and deployment to development, staging and production (manual) environments.|
-|[CICD-Microservices-Monorepo-Project](https://gitlab.com/tanvirj9/cicd-microservice-polyrepo)|This project implements a CI/CD pipeline using GitLab CI, Docker and a self-hosted EC2 GitLab Runner to build and deploy a microservices-based application. Each service is independently built, versioned and deployed to an EC2 server using Docker Compose.|
+|[CICD-NodeJS-Project-test-build-deploy (EC2 server)](https://gitlab.com/tanvirj9/CICD-nodejs-project)|A multi-stage CI/CD pipeline with SAST, unit testing, dynamically versioned image builds, and authenticated registry pushes — using reusable templates across 3 deployment stages, with manual approval gating production.|
+|[CICD-Microservices-Monorepo-Project](https://gitlab.com/tanvirj9/cicd-microservice-polyrepo)|A microservices CI/CD pipeline that detects which service changed and runs only the relevant build, test, and deployment steps — cutting run times, saving resources, and keeping deployments fast and focused.|
 |[CICD-Microservices-Polyrepo-Project](https://gitlab.com/microservice-p0lyrep0)|This project implements dedicated pipelines for each services in a microservice-based application. Job templates within separate repository are utilized for avoiding code duplication for build and deploy jobs for each services.|
 
 Apart from these, I also love to play and read about pentesting tools and in my free time I play wargames at [Over The Wire](OverTheWire.org/wargames/) and try to solve some challenges at [Sad Servers](https://www.sadservers.com). <br/>
