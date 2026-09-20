@@ -2,7 +2,18 @@
 I'm Belal, a curious, self-motivated and a helpful person 😄. I have recently completed my master's degree in Information and Communications Technology, majoring in Cyber Security.<br/>
 
 ### A bit about me <br/>
-Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. But since the spring of '25, my interests have grown into knowing more about DevOps, DevSecOps and Cloud technologies. Feel free to checkout some of my ongoing projects that I use as testing ground for understanding various processes in DevOps and DevSecOps:<br/>
+Not so long ago, I started learning frontend and backend development, built a few projects for fun and now applying those knowledge to contribute in the development of a startup platform. Currently looking for full-time software engineering position. <br/>
+My curiosity to know how things work on the operations side led me to dig into DevOps and Cloud tech. Feel free to check some of my hobby projects down below :).
+
+<!-- But since the spring of '25, my interests have grown into knowing more about DevOps, DevSecOps and Cloud technologies. Feel free to checkout some of my ongoing projects that I use as testing ground for understanding various processes in DevOps and DevSecOps:<br/> -->
+
+#### Frontend / Backend Projects
+| Project Name | Description |
+|-----------------------|---------------------------------------------------------------------------------------|
+|[Blog_API](https://github.com/Belal-Bari/05_Blog_API) | This project implements a single RESTful backend using Node.js and Express, designed to serve two separate frontend applications. |
+|[File_Uploader-Backend_Project](https://github.com/Belal-Bari/04_File_Uploader-Backend_Project-) | A Node.js and Express-based web application, having authentication, upload and download functionality. functionality. A stripped down implementation of personal storage service. |
+|[Members_Only](https://github.com/Belal-Bari/03_Members_Only) | A Node.js and Express-based web application, having authentication and user permissions functionality. |
+|[ReactJS-Mini-Projects](https://github.com/Belal-Bari/ReactJS-Projects) | - |
 
 #### DevSecOps
 | Project Name | Description |
